@@ -1,5 +1,5 @@
 # RTAL-CHAD-003-High-End-Audio-Speakers
-
+## Stay tuned for more details
 <p align="center">
 <img src="images/RTAL_Speakers_2.jpg" width="900">
 
