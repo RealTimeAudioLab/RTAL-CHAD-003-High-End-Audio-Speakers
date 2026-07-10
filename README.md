@@ -7,8 +7,6 @@
 
 # A Handmade Reference Loudspeaker
 
-*Hero Image – Complete RTAL Reference System*
-
 The **RTAL CHAD-003** is a handcrafted loudspeaker system designed and built as the acoustic counterpart to the **RTAL Reference One Preamplifier** and the **RTAL Reference Power Amplifiers**.
 
 Rather than pursuing spectacular measurements or commercial trends, the objective was simple:
