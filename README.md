@@ -32,11 +32,12 @@ Rather than pursuing spectacular measurements or commercial trends, the objectiv
 # Gallery
 
 ## Complete Reference Audio System
-*Insert complete system photograph*
+<p align="center">
+<img src="images/RTAL_Studio_4.jpg" width="900">
 
 ## CHAD-003 Loudspeaker
 <p align="center">
-<img src="images/RTAL_Speakers_1.jpg" width="900"
+<img src="images/RTAL_Speakers_1.jpg" width="900">
 
 ## Driver Close-up
 <p align="center">
